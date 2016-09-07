@@ -2,10 +2,6 @@ MPED.StacjaIT.XAIOT.WorkshopApp.Droid.ControlCircuitActivity, MPED.StacjaIT.XAIO
 MPED.StacjaIT.XAIOT.WorkshopApp.Droid.ControlCircuitActivity, MPED.StacjaIT.XAIOT.WorkshopApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md527403d39b902b5a63dd1503d77826ca1.ControlCircuitActivity
 MPED.StacjaIT.XAIOT.WorkshopApp.Droid.ControlCircuitActivity;md527403d39b902b5a63dd1503d77826ca1.ControlCircuitActivity
 mped.stacjait.xaiot.workshopapp.droid.ControlCircuitActivity;md527403d39b902b5a63dd1503d77826ca1.ControlCircuitActivity
-MPED.StacjaIT.XAIOT.WorkshopApp.Droid.HouseActivity, MPED.StacjaIT.XAIOT.WorkshopApp.Droid;md527403d39b902b5a63dd1503d77826ca1.HouseActivity
-MPED.StacjaIT.XAIOT.WorkshopApp.Droid.HouseActivity, MPED.StacjaIT.XAIOT.WorkshopApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md527403d39b902b5a63dd1503d77826ca1.HouseActivity
-MPED.StacjaIT.XAIOT.WorkshopApp.Droid.HouseActivity;md527403d39b902b5a63dd1503d77826ca1.HouseActivity
-mped.stacjait.xaiot.workshopapp.droid.HouseActivity;md527403d39b902b5a63dd1503d77826ca1.HouseActivity
 MPED.StacjaIT.XAIOT.WorkshopApp.Droid.MainActivity, MPED.StacjaIT.XAIOT.WorkshopApp.Droid;md527403d39b902b5a63dd1503d77826ca1.MainActivity
 MPED.StacjaIT.XAIOT.WorkshopApp.Droid.MainActivity, MPED.StacjaIT.XAIOT.WorkshopApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md527403d39b902b5a63dd1503d77826ca1.MainActivity
 MPED.StacjaIT.XAIOT.WorkshopApp.Droid.MainActivity;md527403d39b902b5a63dd1503d77826ca1.MainActivity

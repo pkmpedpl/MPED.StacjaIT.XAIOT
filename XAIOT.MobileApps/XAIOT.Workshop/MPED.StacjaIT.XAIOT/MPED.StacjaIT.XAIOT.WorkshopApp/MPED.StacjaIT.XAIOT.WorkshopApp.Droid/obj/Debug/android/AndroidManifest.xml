@@ -6,7 +6,6 @@
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="MPED.StacjaIT.XAIOT.WorkshopApp.Droid" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:label="ControlCircuitActivity" android:name="md527403d39b902b5a63dd1503d77826ca1.ControlCircuitActivity" />
-    <activity android:label="HouseActivity" android:name="md527403d39b902b5a63dd1503d77826ca1.HouseActivity" />
     <activity android:icon="@drawable/icon" android:label="MPED.StacjaIT.XAIOT.WorkshopApp.Droid" android:name="md527403d39b902b5a63dd1503d77826ca1.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

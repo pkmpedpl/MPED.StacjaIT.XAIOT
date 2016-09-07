@@ -24,21 +24,11 @@ namespace MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        private AccountWebService _accountWebService = null;
-        private BuildingWebService _buildingWebService = null;
-
         public MainPage()
         {
-            this.InitializeComponent();
-            this.InitializeCustom();
+            this.InitializeComponent();         
 
             this.NavigationCacheMode = NavigationCacheMode.Required;
-        }
-
-        private void InitializeCustom()
-        {
-            _accountWebService = new AccountWebService();
-            _buildingWebService = new BuildingWebService();
         }
 
         /// <summary>
@@ -48,22 +38,7 @@ namespace MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone
         /// This parameter is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            LoginTextBox.Text = "stacjait@mped.stacjait.pl";
-            PasswordBox.Password = "StacjaIt.1";
-        }
-
-        private async void Button_Click(object sender, RoutedEventArgs e)
-        {
-            try
-            {
-                App.Token = await _accountWebService.GetToken(LoginTextBox.Text, PasswordBox.Password);                
-                App.Building = await _buildingWebService.FindBuildingFullData(App.Token.access_token, new Guid("1888561c-950b-41f3-9963-ddbeceb4da22"));
-                Frame.Navigate(typeof(HousePage));
-            }
-            catch (HttpRequestException)
-            {
-                ErrorTextBlock.Text = "Przesłane dane są niepoprawne."; 
-            }
-        }
+            
+        }        
     }
 }

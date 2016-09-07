@@ -7,14 +7,6 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
-    <StackPanel VerticalAlignment="Center" Margin="20,0">
-        <TextBlock FontSize="18">Login</TextBlock>
-        <TextBox Name="LoginTextBox"></TextBox>
-        <TextBlock FontSize="18">Hasło</TextBlock>
-        <PasswordBox Name="PasswordBox"></PasswordBox>
-        <Button x:ConnectionId='1' Content="Zaloguj się" x:Name="Button" HorizontalAlignment="Stretch"                      />
-        <TextBlock Foreground="Red" Name="ErrorTextBlock" FontSize="18"></TextBlock>
-    </StackPanel>
+    
 </Page>
 

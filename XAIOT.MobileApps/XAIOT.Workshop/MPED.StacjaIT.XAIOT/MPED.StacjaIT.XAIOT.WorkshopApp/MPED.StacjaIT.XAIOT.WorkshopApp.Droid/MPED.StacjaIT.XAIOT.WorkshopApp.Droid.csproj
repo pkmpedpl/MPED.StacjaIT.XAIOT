@@ -51,7 +51,6 @@
     <Compile Include="Adapters\ControlCircuitsAdapter.cs" />
     <Compile Include="Adapters\ZonesAdapter.cs" />
     <Compile Include="ControlCircuitActivity.cs" />
-    <Compile Include="HouseActivity.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
