@@ -35,17 +35,8 @@ namespace MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone
         /// This parameter is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            DataContext = e.Parameter;
-        }
-
-        private void ControlCircuitsListView_ItemClick(object sender, ItemClickEventArgs e)
-        {
-            ControlCircuitViewModel controlCircuit = e.ClickedItem as ControlCircuitViewModel;
-            if (controlCircuit != null)
-            {
-                Frame.Navigate(typeof(ControlCircuitPage), controlCircuit);
-            }
-        }
+            
+        }        
 
         private void BackButton_Tapped(object sender, TappedRoutedEventArgs e)
         {

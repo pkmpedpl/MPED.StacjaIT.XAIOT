@@ -57,3 +57,7 @@ C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Workshop\MPED.StacjaIT.XAIO
 C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Workshop\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
 C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Workshop\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
 C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Workshop\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Workshop\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Workshop\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Workshop\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Workshop\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb

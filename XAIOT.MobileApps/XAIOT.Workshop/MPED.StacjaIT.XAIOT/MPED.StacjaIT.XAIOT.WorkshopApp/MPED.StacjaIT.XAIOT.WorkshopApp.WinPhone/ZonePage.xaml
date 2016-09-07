@@ -25,11 +25,11 @@
             <TextBlock Grid.Column="1" FontWeight="Bold" Foreground="White" FontSize="18" Text="{Binding Name}" VerticalAlignment="Center" Margin="10,0" />
         </Grid>
         <Grid Grid.Row="1">
-            <ListView Name="ControlCircuitsListView" ItemsSource="{Binding ControlCircuits}" IsItemClickEnabled="True" ItemClick="ControlCircuitsListView_ItemClick">
+            <ListView Name="ControlCircuitsListView" IsItemClickEnabled="True">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <Grid>
-                            <TextBlock Text="{Binding Name}" FontSize="16" FontWeight="Bold" VerticalAlignment="Center" Margin="10,0" />
+                            <TextBlock FontSize="16" FontWeight="Bold" VerticalAlignment="Center" Margin="10,0" />
                         </Grid>
                     </DataTemplate>
                 </ListView.ItemTemplate>

@@ -7,7 +7,6 @@
     <RootPropertyPathName Name="SensorTemperature" />
     <RootPropertyPathName Name="Name" />
     <RootPropertyPathName Name="Zones" />
-    <RootPropertyPathName Name="ControlCircuits" />
   </Roots.PropertyPathNames>
   <Roots.RootTypes>
     <RootType FullName="Windows.UI.Xaml.Application" />

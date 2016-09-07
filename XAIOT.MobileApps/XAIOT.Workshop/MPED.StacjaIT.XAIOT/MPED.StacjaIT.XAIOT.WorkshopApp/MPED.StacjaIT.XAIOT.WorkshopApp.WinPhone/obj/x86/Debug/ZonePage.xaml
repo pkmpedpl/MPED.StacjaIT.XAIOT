@@ -19,17 +19,17 @@
                 <ColumnDefinition Width="80"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-            <Grid x:ConnectionId='2' Grid.Column="0" Name="BackButton"                           >
+            <Grid x:ConnectionId='1' Grid.Column="0" Name="BackButton"                           >
                 <TextBlock FontWeight="Bold" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center">Powrót</TextBlock>
             </Grid>
             <TextBlock Grid.Column="1" FontWeight="Bold" Foreground="White" FontSize="18" Text="{Binding Name}" VerticalAlignment="Center" Margin="10,0" />
         </Grid>
         <Grid Grid.Row="1">
-            <ListView x:ConnectionId='1' Name="ControlCircuitsListView" ItemsSource="{Binding ControlCircuits}" IsItemClickEnabled="True"                                              >
+            <ListView Name="ControlCircuitsListView" IsItemClickEnabled="True">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <Grid>
-                            <TextBlock Text="{Binding Name}" FontSize="16" FontWeight="Bold" VerticalAlignment="Center" Margin="10,0" />
+                            <TextBlock FontSize="16" FontWeight="Bold" VerticalAlignment="Center" Margin="10,0" />
                         </Grid>
                     </DataTemplate>
                 </ListView.ItemTemplate>
