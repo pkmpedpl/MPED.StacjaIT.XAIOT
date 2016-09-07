@@ -6,7 +6,6 @@
     <RootPropertyPathName Name="SensorHumidity" />
     <RootPropertyPathName Name="SensorTemperature" />
     <RootPropertyPathName Name="Name" />
-    <RootPropertyPathName Name="Zones" />
   </Roots.PropertyPathNames>
   <Roots.RootTypes>
     <RootType FullName="Windows.UI.Xaml.Application" />
@@ -62,16 +61,6 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Data.Binding" />
     <RootType FullName="MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.ControlCircuitPage" />
-    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
-      <RootProperty Name="Name" />
-      <RootProperty Name="ItemsSource" />
-      <RootProperty Name="IsItemClickEnabled" />
-      <RootProperty Name="ItemTemplate" />
-      <RootEvent Name="ItemClick" />
-    </RootType>
-    <RootType FullName="Windows.UI.Xaml.DataTemplate">
-      <RootProperty Name="Template" />
-    </RootType>
     <RootType FullName="MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.HousePage" />
     <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
       <RootProperty Name="Name" />
@@ -80,6 +69,14 @@
       <RootProperty Name="Name" />
     </RootType>
     <RootType FullName="MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.MainPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="Name" />
+      <RootProperty Name="IsItemClickEnabled" />
+      <RootProperty Name="ItemTemplate" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
     <RootType FullName="MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.ZonePage" />
   </Roots.RootTypes>
 </Roots>

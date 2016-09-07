@@ -36,16 +36,12 @@ namespace MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone
         /// This parameter is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            DataContext = App.Building;
+            
         }
 
         private void ZonesListView_ItemClick(object sender, ItemClickEventArgs e)
         {
-            ZoneViewModel zone = e.ClickedItem as ZoneViewModel;
-            if (zone != null)
-            {
-                Frame.Navigate(typeof(ZonePage), zone);
-            }
+            
         }
         
     }

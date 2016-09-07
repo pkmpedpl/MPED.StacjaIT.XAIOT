@@ -3,20 +3,5 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <TextView
-        android:text=""
-        android:textSize="18dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
-        android:id="@+id/textViewName" />
-    <ListView
-        android:minWidth="25px"
-        android:minHeight="25px"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/listViewZones" />
+    
 </LinearLayout>

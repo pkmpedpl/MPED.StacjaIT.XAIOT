@@ -14,14 +14,14 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int buttonLogin=0x7f05000c;
+        public static final int buttonLogin=0x7f05000b;
         public static final int buttonRefresh=0x7f050007;
         public static final int buttonTurnOff=0x7f050002;
         public static final int buttonTurnOn=0x7f050001;
-        public static final int editTextLogin=0x7f05000a;
-        public static final int editTextPassword=0x7f05000b;
-        public static final int listViewZones=0x7f050008;
-        public static final int textView1=0x7f050009;
+        public static final int editTextLogin=0x7f050009;
+        public static final int editTextPassword=0x7f05000a;
+        public static final int listViewZones=0x7f05000c;
+        public static final int textView1=0x7f050008;
         public static final int textViewHumidity=0x7f050004;
         public static final int textViewLux=0x7f050005;
         public static final int textViewName=0x7f050000;

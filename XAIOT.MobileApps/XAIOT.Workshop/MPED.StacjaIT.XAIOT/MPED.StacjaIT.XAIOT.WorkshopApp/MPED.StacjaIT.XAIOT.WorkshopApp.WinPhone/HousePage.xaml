@@ -9,24 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="*" />
-        </Grid.RowDefinitions>
-
-        <Grid Background="DarkBlue" Grid.Row="0">
-            <TextBlock FontWeight="Bold" Foreground="White" FontSize="18" Name="HouseNameTextBlock" Text="{Binding Name}" VerticalAlignment="Center" Margin="10,0" />
-        </Grid>
-        <Grid Grid.Row="1">
-            <ListView Name="ZonesListView" ItemsSource="{Binding Zones}" IsItemClickEnabled="True" ItemClick="ZonesListView_ItemClick">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <Grid>
-                            <TextBlock Text="{Binding Name}" FontSize="16" FontWeight="Bold" VerticalAlignment="Center" Margin="10,0" />
-                        </Grid>                       
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
-        </Grid>
+        
     </Grid>
 </Page>
