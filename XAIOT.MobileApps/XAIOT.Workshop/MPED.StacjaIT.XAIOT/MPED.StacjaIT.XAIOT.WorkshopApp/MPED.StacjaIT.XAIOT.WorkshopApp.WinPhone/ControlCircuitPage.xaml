@@ -44,8 +44,8 @@
 
             <Grid Grid.Row="0" Grid.Column="1">
                 <StackPanel Orientation="Horizontal">
-                    <Button Name="TurnOnButton" Click="TurnOnButton_Click" Margin="10,0,0,0">Włącz</Button>
-                    <Button Name="TurnOffButton" Click="TurnOffButton_Click" Margin="10,0,0,0">Wyłącz</Button>
+                    <Button Name="TurnOnButton" Margin="10,0,0,0">Włącz</Button>
+                    <Button Name="TurnOffButton" Margin="10,0,0,0">Wyłącz</Button>
                 </StackPanel>
             </Grid>
 
@@ -93,7 +93,7 @@
             </Grid>
 
             <Grid Grid.ColumnSpan="2" Grid.Row="5">
-                <Button Name="RefreshButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,0" Click="RefreshButton_Click">Odśwież</Button>
+                <Button Name="RefreshButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,0">Odśwież</Button>
             </Grid>
         </Grid>
     </Grid>

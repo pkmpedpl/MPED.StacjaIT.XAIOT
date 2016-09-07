@@ -1,7 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\pkiezynski\documents\visual studio 2015\projects\mped.stacjait.xaiot\mped.stacjait.xaiot.workshopapp\mped.stacjait.xaiot.workshopapp.winphone\obj\debug\intermediatexaml\mped.stacjait.xaiot.workshopapp.winphone.exe" HashGuid="734afa13-9b92-4ba4-da71-cf7f0ad1ef8b" />
-    <ReferenceAssembly PathName="c:\github\mped.stacjait.xaiot\xaiot.mobileapps\xaiot.final\mped.stacjait.xaiot\mped.stacjait.xaiot.workshopapplib\bin\debug\mped.stacjait.xaiot.workshopapplib.dll" HashGuid="e13e2fae-d827-2f94-1e94-0c03054737dd" />
-    <ReferenceAssembly PathName="c:\github\mped.stacjait.xaiot\xaiot.mobileapps\xaiot.final\mped.stacjait.xaiot\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="c:\github\mped.stacjait.xaiot\xaiot.mobileapps\xaiot.workshop\mped.stacjait.xaiot\mped.stacjait.xaiot.workshopapplib\bin\debug\mped.stacjait.xaiot.workshopapplib.dll" HashGuid="e13e2fae-d827-2f94-1e94-0c03054737dd" />
+    <ReferenceAssembly PathName="c:\github\mped.stacjait.xaiot\xaiot.mobileapps\xaiot.workshop\mped.stacjait.xaiot\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

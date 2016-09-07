@@ -19,7 +19,7 @@
                 <ColumnDefinition Width="80"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-            <Grid x:ConnectionId='4' Grid.Column="0" Name="BackButton"                           >
+            <Grid x:ConnectionId='1' Grid.Column="0" Name="BackButton"                           >
                 <TextBlock FontWeight="Bold" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center">Powrót</TextBlock>
             </Grid>
             <TextBlock Grid.Column="1" FontWeight="Bold" Foreground="White" FontSize="18" Text="{Binding Name}" VerticalAlignment="Center" Margin="10,0" />
@@ -44,8 +44,8 @@
 
             <Grid Grid.Row="0" Grid.Column="1">
                 <StackPanel Orientation="Horizontal">
-                    <Button x:ConnectionId='2' Name="TurnOnButton"                            Margin="10,0,0,0">Włącz</Button>
-                    <Button x:ConnectionId='3' Name="TurnOffButton"                             Margin="10,0,0,0">Wyłącz</Button>
+                    <Button Name="TurnOnButton" Margin="10,0,0,0">Włącz</Button>
+                    <Button Name="TurnOffButton" Margin="10,0,0,0">Wyłącz</Button>
                 </StackPanel>
             </Grid>
 
@@ -93,7 +93,7 @@
             </Grid>
 
             <Grid Grid.ColumnSpan="2" Grid.Row="5">
-                <Button x:ConnectionId='1' Name="RefreshButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,0"                            >Odśwież</Button>
+                <Button Name="RefreshButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,0">Odśwież</Button>
             </Grid>
         </Grid>
     </Grid>

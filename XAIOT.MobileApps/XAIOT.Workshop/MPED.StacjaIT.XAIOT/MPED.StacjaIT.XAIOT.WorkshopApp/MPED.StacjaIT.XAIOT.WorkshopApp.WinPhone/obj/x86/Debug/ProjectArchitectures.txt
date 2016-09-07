@@ -1,2 +1,2 @@
-C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.csproj;x86
-C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\MPED.StacjaIT.XAIOT.WorkshopAppLib.csproj;neutral
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Workshop\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.csproj;x86
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Workshop\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\MPED.StacjaIT.XAIOT.WorkshopAppLib.csproj;neutral
