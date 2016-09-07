@@ -1,0 +1,2 @@
+android.app.Application
+MPED.StacjaIT.XAIOT.WorkshopApp.Droid

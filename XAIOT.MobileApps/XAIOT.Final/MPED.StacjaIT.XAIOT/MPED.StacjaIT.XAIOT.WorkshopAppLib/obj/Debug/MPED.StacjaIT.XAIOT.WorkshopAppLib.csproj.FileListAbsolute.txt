@@ -1,0 +1,51 @@
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.pdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.pdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.csprojResolveAssemblyReference.cache
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll.mdb

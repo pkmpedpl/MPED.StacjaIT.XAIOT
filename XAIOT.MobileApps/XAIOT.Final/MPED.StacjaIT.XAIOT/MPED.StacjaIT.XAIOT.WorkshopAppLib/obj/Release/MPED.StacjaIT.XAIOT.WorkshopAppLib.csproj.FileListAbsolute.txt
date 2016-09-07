@@ -1,0 +1,7 @@
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Release\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Release\MPED.StacjaIT.XAIOT.WorkshopAppLib.pdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Release\Newtonsoft.Json.dll
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Release\Newtonsoft.Json.xml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Release\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Release\MPED.StacjaIT.XAIOT.WorkshopAppLib.pdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\obj\Release\MPED.StacjaIT.XAIOT.WorkshopAppLib.csprojResolveAssemblyReference.cache

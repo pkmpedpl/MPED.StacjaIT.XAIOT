@@ -1,0 +1,47 @@
+package md527403d39b902b5a63dd1503d77826ca1;
+
+
+public class ZoneActivity
+	extends android.app.Activity
+	implements
+		mono.android.IGCUserPeer
+{
+/** @hide */
+	public static final String __md_methods;
+	static {
+		__md_methods = 
+			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
+			"";
+		mono.android.Runtime.register ("MPED.StacjaIT.XAIOT.WorkshopApp.Droid.ZoneActivity, MPED.StacjaIT.XAIOT.WorkshopApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", ZoneActivity.class, __md_methods);
+	}
+
+
+	public ZoneActivity () throws java.lang.Throwable
+	{
+		super ();
+		if (getClass () == ZoneActivity.class)
+			mono.android.TypeManager.Activate ("MPED.StacjaIT.XAIOT.WorkshopApp.Droid.ZoneActivity, MPED.StacjaIT.XAIOT.WorkshopApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+	}
+
+
+	public void onCreate (android.os.Bundle p0)
+	{
+		n_onCreate (p0);
+	}
+
+	private native void n_onCreate (android.os.Bundle p0);
+
+	private java.util.ArrayList refList;
+	public void monodroidAddReference (java.lang.Object obj)
+	{
+		if (refList == null)
+			refList = new java.util.ArrayList ();
+		refList.add (obj);
+	}
+
+	public void monodroidClearReferences ()
+	{
+		if (refList != null)
+			refList.clear ();
+	}
+}

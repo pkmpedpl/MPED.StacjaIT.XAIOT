@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MPED002</Machine>
+    <WindowsUser>pkiezynski</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>45a5037b-36ec-4216-a95f-a8ae9deca371</PackageIdentityName>
+    <PackageIdentityPublisher>CN=joe</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.exe">
+      <PackagePath>MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopAppLib\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll">
+      <PackagePath>MPED.StacjaIT.XAIOT.WorkshopAppLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.xr.xml">
+      <PackagePath>MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\ControlCircuitPage.xbf">
+      <PackagePath>ControlCircuitPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\HousePage.xbf">
+      <PackagePath>HousePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\ZonePage.xbf">
+      <PackagePath>ZonePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

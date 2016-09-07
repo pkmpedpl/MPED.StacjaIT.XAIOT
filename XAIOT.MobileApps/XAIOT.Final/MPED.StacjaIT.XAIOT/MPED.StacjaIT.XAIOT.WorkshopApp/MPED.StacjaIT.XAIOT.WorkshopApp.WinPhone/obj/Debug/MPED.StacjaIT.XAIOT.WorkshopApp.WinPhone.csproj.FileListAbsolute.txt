@@ -1,0 +1,105 @@
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\App.xbf
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MainPage.xbf
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.xr.xml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.exe
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.pdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\resources.pri
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\AppxManifest.xml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.build.appxrecipe
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\App.g.i.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\App.g.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MainPage.g.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\App.xaml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MainPage.xaml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\App.xbf
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MainPage.xbf
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.exe
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.pdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\priconfig.xml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\layout.resfiles
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\resources.resfiles
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\pri.resfiles
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\qualifiers.txt
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\ControlCircuitPage.xbf
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\HousePage.xbf
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\ZonePage.xbf
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.pdb
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ControlCircuitPage.g.i.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ControlCircuitPage.g.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\HousePage.g.i.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\HousePage.g.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ZonePage.g.i.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ZonePage.g.cs
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ControlCircuitPage.xaml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\HousePage.xaml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ZonePage.xaml
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ControlCircuitPage.xbf
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\HousePage.xbf
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ZonePage.xbf
+C:\Users\pkiezynski\documents\visual studio 2015\Projects\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.csproj.GenerateResource.Cache
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\App.xbf
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\ControlCircuitPage.xbf
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\HousePage.xbf
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MainPage.xbf
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\ZonePage.xbf
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.xr.xml
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.exe
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.pdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\resources.pri
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\AppxManifest.xml
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.build.appxrecipe
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.dll
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\MPED.StacjaIT.XAIOT.WorkshopAppLib.pdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.csprojResolveAssemblyReference.cache
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\App.g.i.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\App.g.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ControlCircuitPage.g.i.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ControlCircuitPage.g.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\HousePage.g.i.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\HousePage.g.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MainPage.g.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ZonePage.g.i.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ZonePage.g.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\App.xaml
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ControlCircuitPage.xaml
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\HousePage.xaml
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MainPage.xaml
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ZonePage.xaml
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\App.xbf
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ControlCircuitPage.xbf
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\HousePage.xbf
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MainPage.xbf
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ZonePage.xbf
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\XamlSaveStateFile.xml
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.exe
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.pdb
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone.csproj.GenerateResource.Cache
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\priconfig.xml
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\priconfig.xml.intermediate
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\layout.resfiles
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\layout.resfiles.intermediate
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\resources.resfiles
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\resources.resfiles.intermediate
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\pri.resfiles
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\pri.resfiles.intermediate
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\qualifiers.txt
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\qualifiers.txt.intermediate
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\GitHub\MPED.StacjaIT.XAIOT\XAIOT.MobileApps\XAIOT.Final\MPED.StacjaIT.XAIOT\MPED.StacjaIT.XAIOT.WorkshopApp\MPED.StacjaIT.XAIOT.WorkshopApp.WinPhone\obj\Debug\ProjectArchitectures.txt

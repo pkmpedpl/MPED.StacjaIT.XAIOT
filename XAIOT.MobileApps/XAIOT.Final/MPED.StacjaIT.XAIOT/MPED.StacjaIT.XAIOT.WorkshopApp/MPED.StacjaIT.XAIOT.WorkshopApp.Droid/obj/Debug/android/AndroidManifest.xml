@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="1" android:versionName="1.0" package="MPED.StacjaIT.XAIOT.WorkshopApp.Droid">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="15" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="MPED.StacjaIT.XAIOT.WorkshopApp.Droid" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="ControlCircuitActivity" android:name="md527403d39b902b5a63dd1503d77826ca1.ControlCircuitActivity" />
+    <activity android:label="HouseActivity" android:name="md527403d39b902b5a63dd1503d77826ca1.HouseActivity" />
+    <activity android:icon="@drawable/icon" android:label="MPED.StacjaIT.XAIOT.WorkshopApp.Droid" android:name="md527403d39b902b5a63dd1503d77826ca1.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="ZoneActivity" android:name="md527403d39b902b5a63dd1503d77826ca1.ZoneActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="MPED.StacjaIT.XAIOT.WorkshopApp.Droid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.MPED.StacjaIT.XAIOT.WorkshopApp.Droid" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
